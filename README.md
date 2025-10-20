@@ -23,6 +23,7 @@ Foram exploradas as propriedades estruturais e dinâmicas da rede, incluindo:
 
 # Estrutura do repositório
 
+```
 ├── notebooks/
 │   └── bitcoin_otc_analysis.ipynb   # Notebook principal
 ├── data/
@@ -30,6 +31,7 @@ Foram exploradas as propriedades estruturais e dinâmicas da rede, incluindo:
 ├── docs/
 │   └── Redes Complexas - SNAP.pdf
 └── README.md
+```
 
 # Fonte dos dados
 
@@ -38,8 +40,11 @@ Dataset: [Bitcoin OTC trust weighted signed network (SNAP)](https://snap.stanfor
 # Autor
 
 Luan Barbosa
+
 Disciplina: Modelagem de Redes Complexas
+
 Instituição: UFJF
+
 Contato: luanhenrique112004@gmail.com
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10sFTtiWn4KO4bziI4YhLjtKnWLazc4C6?usp=sharing)
