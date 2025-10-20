@@ -22,6 +22,7 @@ Foram exploradas as propriedades estruturais e dinâmicas da rede, incluindo:
 - Google Colab
 
 # Estrutura do repositório
+
 ├── notebooks/
 │   └── bitcoin_otc_analysis.ipynb   # Notebook principal
 ├── data/
